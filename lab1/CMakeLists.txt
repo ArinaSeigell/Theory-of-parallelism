@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(SineArray)
+project(lab1)
 
 # Опция для выбора типа данных
 option(USE_FLOAT "Build with float array" ON)
